@@ -1,0 +1,289 @@
+{
+  "ocr_type": "receipts",
+  "request_id": "P_201.17.157.193_m0v787av_y36",
+  "ref_no": "ocr_python_123",
+  "file_name": "file",
+  "request_received_on": 1725898201592,
+  "success": true,
+  "image_width": 1800,
+  "image_height": 4000,
+  "image_rotation": -0.016,
+  "recognition_completed_on": 1725898203417,
+  "receipts": [
+    {
+      "merchant_name": "SUPERMERCADOS BH COM. DE ALIMENTOS S.A",
+      "merchant_address": "RUA GAVEA, 438 - JARDIN AMERICA",
+      "merchant_phone": "+1 641-376-0037",
+      "merchant_website": null,
+      "merchant_tax_reg_no": null,
+      "merchant_company_reg_no": null,
+      "region": null,
+      "mall": null,
+      "country": "US",
+      "receipt_no": "3124 0104 6413 7600",
+      "date": "2024-10-01",
+      "time": "17:29",
+      "items": [
+        {
+          "amount": 10.39,
+          "category": null,
+          "description": "7896982140048 OVOS BCOS MANT C/12",
+          "flags": "",
+          "qty": 1,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 10.39
+        },
+        {
+          "amount": 17.36,
+          "category": null,
+          "description": "70847022015 BEB EN MONST 473ML 2 LT 8.68",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 10.98,
+          "category": null,
+          "description": "7898063762668 CONC LIQ B ISCHIA IL",
+          "flags": "",
+          "qty": 1,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 10.98
+        },
+        {
+          "amount": 35.98,
+          "category": null,
+          "description": "7898949304418 TILAP MORAD FISH",
+          "flags": "",
+          "qty": 800,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 35.96
+        },
+        {
+          "amount": 16.98,
+          "category": null,
+          "description": "7898506323692 FILEZ FGO NAT 1KG 1 PT 16.98",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 91.69,
+          "category": null,
+          "description": "VALOR TOTAL R$",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 91.69,
+          "category": null,
+          "description": "VALOR A PAGAR R$",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 91.69,
+          "category": null,
+          "description": "Cartao de debito",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        }
+      ],
+      "currency": "USD",
+      "total": 91.69,
+      "subtotal": null,
+      "tax": null,
+      "service_charge": null,
+      "tip": null,
+      "payment_method": null,
+      "payment_details": null,
+      "credit_card_type": null,
+      "credit_card_number": "1222",
+      "ocr_text": "            SUPERMERCADOS BH COM. DE ALIMENTOS S.A\n               RUA GAVEA, 438 - JARDIN AMERICA\n               30460400 BELO HORIZONTE - NG\n         CNPJ: 04.641.376/0037-47 I.E: 5462741273650\n    DOCUMENTO AUXILIAR NOTA FISCAL DE CONSUMIDOR ELETRONICA\n           10/01/2024 - 17:29:15 Cupoa: 01089295\n  Cod Descr. Qtd. Unid. Preco                      Total\n  7896982140048 OVOS BCOS MANT C/12 1 BJ x 10,39     10.39\n  70847022015 BEB EN MONST 473ML 2 LT 8.68           17.36\n  7898063762668 CONC LIQ B ISCHIA IL 1 FR x 10.98    10.98\n  7898949304418 TILAP MORAD FISH 800 PT x 35.96      35.98\n  7898506323692 FILEZ FGO NAT 1KG 1 PT 16.98         16,98\n  QTD. TOTAL DE ITENS\n  VALOR TOTAL R$                                     91,69\n VALOR A PAGAR R$                                    91.69\n Cartao de debito                                    91.69\n       N.:410896 Serie: 068 Emissao 10/01/2024 17:29\n Consulte a Chave de Acesso es https://portalsped.fazenda\n                    .ag.gov.br/portalnfce\n  3124 0104 6413 7600 3747 6506 8000 4108 9611 9142 0865\n  Protocole Autorizacao: 131241546778458 10/01/2024 17:29\n                 CONSUMIDOR NAO INFORMADO\n Tributos Incidentes Ley Federal 12.741/12 Total R$ 91.69\n  9.27% Federal 5,56% Estadual 0.00% Municipal\n           CIELO-UR BENEFICIO\n            637036 ****** 1222\n                         AUT",
+      "ocr_confidence": 94.98,
+      "width": 1542,
+      "height": 3108,
+      "avg_char_width": 26.4669,
+      "avg_line_height": 49.8784,
+      "conf_amount": 83,
+      "source_locations": {
+        "date": [
+          [
+            {
+              "x": 323,
+              "y": 1349
+            },
+            {
+              "x": 907,
+              "y": 1339
+            },
+            {
+              "x": 908,
+              "y": 1397
+            },
+            {
+              "x": 324,
+              "y": 1407
+            }
+          ]
+        ],
+        "total": [
+          [
+            {
+              "x": 12,
+              "y": 3676
+            },
+            {
+              "x": 1708,
+              "y": 3659
+            },
+            {
+              "x": 1709,
+              "y": 3723
+            },
+            {
+              "x": 14,
+              "y": 3740
+            }
+          ]
+        ],
+        "receipt_no": [
+          [
+            {
+              "x": 100,
+              "y": 2645
+            },
+            {
+              "x": 658,
+              "y": 2636
+            },
+            {
+              "x": 659,
+              "y": 2694
+            },
+            {
+              "x": 101,
+              "y": 2703
+            }
+          ]
+        ],
+        "credit_card_number": [
+          [
+            {
+              "x": 375,
+              "y": 3907
+            },
+            {
+              "x": 856,
+              "y": 3907
+            },
+            {
+              "x": 856,
+              "y": 3962
+            },
+            {
+              "x": 375,
+              "y": 3962
+            }
+          ]
+        ],
+        "merchant_name": [
+          [
+            {
+              "x": 298,
+              "y": 897
+            },
+            {
+              "x": 1344,
+              "y": 878
+            },
+            {
+              "x": 1345,
+              "y": 931
+            },
+            {
+              "x": 299,
+              "y": 950
+            }
+          ]
+        ],
+        "doc": [
+          [
+            {
+              "x": -33,
+              "y": 746
+            },
+            {
+              "x": 1662,
+              "y": 719
+            },
+            {
+              "x": 1715,
+              "y": 4138
+            },
+            {
+              "x": 19,
+              "y": 4165
+            }
+          ]
+        ],
+        "merchant_address": [
+          [
+            {
+              "x": 411,
+              "y": 959
+            },
+            {
+              "x": 1260,
+              "y": 942
+            },
+            {
+              "x": 1261,
+              "y": 991
+            },
+            {
+              "x": 412,
+              "y": 1008
+            }
+          ]
+        ],
+        "merchant_phone": [
+          [
+            {
+              "x": 214,
+              "y": 1086
+            },
+            {
+              "x": 1461,
+              "y": 1066
+            },
+            {
+              "x": 1462,
+              "y": 1116
+            },
+            {
+              "x": 215,
+              "y": 1136
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

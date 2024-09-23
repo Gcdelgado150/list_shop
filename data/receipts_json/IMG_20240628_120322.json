@@ -1,0 +1,337 @@
+{
+  "ocr_type": "receipts",
+  "request_id": "P_201.17.157.193_m0v3mz3c_9ac",
+  "ref_no": "ocr_python_123",
+  "file_name": "file",
+  "request_received_on": 1725892172329,
+  "success": true,
+  "image_width": 1800,
+  "image_height": 4000,
+  "image_rotation": -0.015,
+  "recognition_completed_on": 1725892174603,
+  "receipts": [
+    {
+      "merchant_name": "CNPJ do Emitente 45.543.915/0146-46 CARREFOUR COM IND LTDA-708",
+      "merchant_address": "AV BARAO HOMEM DE MELO, 629, NOVA SUICA-BELG HORIZONTE-MG",
+      "merchant_phone": null,
+      "merchant_website": null,
+      "merchant_tax_reg_no": null,
+      "merchant_company_reg_no": null,
+      "region": null,
+      "mall": null,
+      "country": "IT",
+      "receipt_no": "152627",
+      "date": "2024-05-10",
+      "time": "21:05",
+      "items": [
+        {
+          "amount": 9.99,
+          "category": null,
+          "description": "1UN 9,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 5.49,
+          "category": null,
+          "description": "15837 ALHO PORO UN1UN 5,49",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 9.69,
+          "category": null,
+          "description": "1UN 9,69",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 25.99,
+          "category": null,
+          "description": "1UN 25,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 22.99,
+          "category": null,
+          "description": "DESCONTO-11,54%R$ 3,00",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 15.99,
+          "category": null,
+          "description": "1UN 15,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 59.9,
+          "category": null,
+          "description": "5602281907501 VIN PORT ESTREIA 750ML VDE/BCD 1UN 59,90",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 49.9,
+          "category": null,
+          "description": "DESCONTO -16,69%R$-10,00",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 3.39,
+          "category": null,
+          "description": "7894900531015 AGUA MIN CRYSTAL 1,5L-PET C/G 1UN 3,39",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 4.79,
+          "category": null,
+          "description": "1UN 4,79",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 4.79,
+          "category": null,
+          "description": "1UN 4,79",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 6.99,
+          "category": null,
+          "description": "7891331010553 CEREAL BR NUTRY REGULAR 666 DY C/3 AVEIA/BAN/MEL",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 66.25,
+          "category": null,
+          "description": "3665 FILE SALMAO kg RESFD0,510KG 129,90",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 3.95,
+          "category": null,
+          "description": "1498 LIMAO TAHITI kg0,720KG 5,49",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 204.21,
+          "category": null,
+          "description": "Valor a Pagar R$",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 204.21,
+          "category": null,
+          "description": "Cartao Credito",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 13,
+          "category": null,
+          "description": "DESCONTO CLUBE SN",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        }
+      ],
+      "currency": "EUR",
+      "total": 204.21,
+      "subtotal": null,
+      "tax": null,
+      "service_charge": null,
+      "tip": null,
+      "payment_method": null,
+      "payment_details": null,
+      "credit_card_type": null,
+      "credit_card_number": null,
+      "ocr_text": "                CNPJ do Emitente 45.543.915/0146-46\n                    CARREFOUR COM IND LTDA-708\n     AV BARAO HOMEM DE MELO, 629, NOVA SUICA-BELG HORIZONTE-MG\n                        FONE (31) 33726714\n     Documento Auxiliar da Nota Fiscal de Consumidor Eletronica\n   10/05/24 21:05:24 LJ 00708 PDV 008 DOC 152627 OP FLAVIA ALVES DA\n  CODIGO DESCRICAO                      QTDE UN VL UNIT VL TOTAL\n  7898942566578 ARROZ ARBORIO ITAL S-FREDIAND 5006\n                                              1UN 9,99 9,99\n 15837 ALHO PORO UN                           1UN 5,49      5.49\n 7896122300516 MANTEIGA PORTO ALEGRE 2006-PT C/SAL\n                                              1UN 9,69 9,69\n 7891999004826 QUEIJO PARMESAO FAIXA AZUL 150G LASCAS\n                                              1UN 25,99 25,99\n         DESCONTO         -11,54%         R$ 3,00           22,99\n 7898553442933 SUCO NAT ONE 900ML-INTEG REFRD LAR\n                                               1UN 15,99 15,99\n 5602281907501 VIN PORT ESTREIA 750ML VDE/BCD 1UN 59,90 59,90\n        DESCONTO -16,69%                 R$-10,00           49,90\n 7894900531015 AGUA MIN CRYSTAL 1,5L-PET C/G 1UN 3,39        3,39\n 7897900310772 CEREAL BR TRIO 606 C/3 AVELA/CAST\n                                               1UN 4,79 4,79\n 7897900310772 CEREAL BR TRIO 606 0/3 AVELA/CAST\n                                              1UN 4,79 4,79\n 7891331010553 CEREAL BR NUTRY REGULAR 666 DY C/3 AVEIA/BAN/MEL\n                                                     6,99 6.99\n 3665 FILE SALMAO kg RESFD                0,510KG 129,90 66,25\n 1498 LIMAO TAHITI kg                     0,720KG 5,49      3.95\n Qtde. Total de Itens                                          12\n Valor a Pagar R$                                         204,21\n FORMA PAGAMENTO                                      VALOR PAGO\n Cartao Credito                                           204,21\n  DESCONTO CLUBE SN                                        13,00\n REDE",
+      "ocr_confidence": 95.15,
+      "width": 1636,
+      "height": 2442,
+      "avg_char_width": 25.581,
+      "avg_line_height": 55.3592,
+      "conf_amount": 89,
+      "source_locations": {
+        "date": [
+          [
+            {
+              "x": 105,
+              "y": 1115
+            },
+            {
+              "x": 544,
+              "y": 1108
+            },
+            {
+              "x": 545,
+              "y": 1175
+            },
+            {
+              "x": 106,
+              "y": 1182
+            }
+          ]
+        ],
+        "receipt_no": [
+          [
+            {
+              "x": 1041,
+              "y": 1098
+            },
+            {
+              "x": 1196,
+              "y": 1095
+            },
+            {
+              "x": 1197,
+              "y": 1156
+            },
+            {
+              "x": 1042,
+              "y": 1159
+            }
+          ]
+        ],
+        "merchant_name": [
+          [
+            {
+              "x": 424,
+              "y": 786
+            },
+            {
+              "x": 1310,
+              "y": 766
+            },
+            {
+              "x": 1311,
+              "y": 821
+            },
+            {
+              "x": 426,
+              "y": 841
+            }
+          ],
+          [
+            {
+              "x": 519,
+              "y": 838
+            },
+            {
+              "x": 1236,
+              "y": 828
+            },
+            {
+              "x": 1237,
+              "y": 883
+            },
+            {
+              "x": 520,
+              "y": 893
+            }
+          ]
+        ],
+        "doc": [
+          [
+            {
+              "x": -26,
+              "y": 664
+            },
+            {
+              "x": 1772,
+              "y": 638
+            },
+            {
+              "x": 1812,
+              "y": 3324
+            },
+            {
+              "x": 12,
+              "y": 3351
+            }
+          ]
+        ],
+        "merchant_address": [
+          [
+            {
+              "x": 112,
+              "y": 894
+            },
+            {
+              "x": 1633,
+              "y": 860
+            },
+            {
+              "x": 1634,
+              "y": 922
+            },
+            {
+              "x": 113,
+              "y": 956
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

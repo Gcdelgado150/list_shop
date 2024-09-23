@@ -1,0 +1,359 @@
+{
+  "ocr_type": "receipts",
+  "request_id": "P_201.17.157.193_m0v3vme0_k6h",
+  "ref_no": "ocr_python_123",
+  "file_name": "file",
+  "request_received_on": 1725892575769,
+  "success": true,
+  "image_width": 1800,
+  "image_height": 4000,
+  "image_rotation": -0.008,
+  "recognition_completed_on": 1725892578001,
+  "receipts": [
+    {
+      "merchant_name": "CNPJ do Emitente 00.070.509/0027-40",
+      "merchant_address": "AV PRESIDENTE CARLOS LUZ, 3001, LOJA SDR3000E, CAICARAS - BELO",
+      "merchant_phone": null,
+      "merchant_website": null,
+      "merchant_tax_reg_no": null,
+      "merchant_company_reg_no": null,
+      "region": null,
+      "mall": null,
+      "country": "IT",
+      "receipt_no": "44472",
+      "date": "2024-06-23",
+      "time": "18:40",
+      "items": [
+        {
+          "amount": 8.99,
+          "category": null,
+          "description": "7898947710297 TOMATE GRAPE SERRAS 3006-BJ VRM 1UN 8,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 5.99,
+          "category": null,
+          "description": "DESCONTO R -3,00-33,37%",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 6.99,
+          "category": null,
+          "description": "1UN 6,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 5.99,
+          "category": null,
+          "description": "1UN 5,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 16.43,
+          "category": null,
+          "description": "0.498KG 32,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 7.5,
+          "category": null,
+          "description": "7029 MACA NAC VRM GALA kg0,395KG 18,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 37.77,
+          "category": null,
+          "description": "3298 COMBINADO SUSHI GOURMET SN kg-BJ0,252KG 149,90",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 4.99,
+          "category": null,
+          "description": "1437 CENOURA VRM kg0,555KG 8,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 12.99,
+          "category": null,
+          "description": "1UN 12,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 6.44,
+          "category": null,
+          "description": "1498 LIMAO TAHITI kg1,075KG 5,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 13.99,
+          "category": null,
+          "description": "7895803701406 BROCOLIS NINJA ELEVE UN1UN 13.99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 19.43,
+          "category": null,
+          "description": "3852 SASHIMI SALMAO SN kg-BJ0,108KG 179,90",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 39.99,
+          "category": null,
+          "description": "1UN 39,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 29.99,
+          "category": null,
+          "description": "DESCONTO-25.01%R$ -10.00",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 3.98,
+          "category": null,
+          "description": "ZUN 1,99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 3.98,
+          "category": null,
+          "description": "2UN 1.99",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 5.43,
+          "category": null,
+          "description": "1474 BANANA PRATA kg0,640KG 8.49",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        }
+      ],
+      "currency": "EUR",
+      "total": 181.89,
+      "subtotal": null,
+      "tax": null,
+      "service_charge": null,
+      "tip": null,
+      "payment_method": null,
+      "payment_details": null,
+      "credit_card_type": "VISA",
+      "credit_card_number": "8917",
+      "ocr_text": "               CNPJ do Emitente 00.070.509/0027-40\n                 COMERCIAL DAHANA LIMITADA -423\n  AV PRESIDENTE CARLOS LUZ, 3001, LOJA SDR3000E, CAICARAS - BELO\n                 HORIZONTE-MG FONE (31) 33593299\n    Documento Auxiliar da Nota Fiscal de Consumidor Eletronica\n 23/06/24 18:40:16 LJ 00423 PDV 009 DOC 44472 OP FLAVIA PINTO MAR\n CODIGO DESCRICAO                        QTDE UN VL UNIT VL TOTAL\n 7898947710297 TOMATE GRAPE SERRAS 3006-BJ VRM 1UN 8,99 8,99\n          DESCONTO R -3,00  -33,37%                          5,99\n 602883921702 IND PAO FORMA 50% INTEG SN 400G-PC\n                                               1UN 6,99 6.99\n 7898960034011 ALFACE CRESPA HIDROP TODO VDE UN\n                                                1UN 5,99 5.99\n 3627 QUEIJO FRESCAL CANTINHO DE MINAS kg LIGHT\n                                            0.498KG 32,99 16,43\n 7029 MACA NAC VRM GALA kg                  0,395KG 18,99 7.50\n 3298 COMBINADO SUSHI GOURMET SN kg-BJ      0,252KG 149,90  37,77\n 1437 CENOURA VRM kg                        0,555KG 8,99 4.99\n 7891098041937 CHA ERVAS LEAOZINHO 10SQ-CX MOR E MARACJ\n                                                1UN 12,99    12.99\n 1498 LIMAO TAHITI kg                       1,075KG 5,99 6.44\n 7895803701406 BROCOLIS NINJA ELEVE UN          1UN 13.99 13.99\n 3852 SASHIMI SALMAO SN kg-BJ               0,108KG 179,90 19.43\n 7792870005195 VIN ARG SOLAR ORFILA RSV 750ML MALBEC\n                                                1UN 39,99    39.99\n         DESCONTO          -25.01%         R$ -10.00          29.99\n 7894900520507 AGUA ARCHATZ CRYSTAL 510ML-PET C/G LIMAO\n                                                ZUN 1,99 3,98\n 7894900521504 AGUA AROMATZ CRYSTAL 510ML-PET C/G FR VRM\n                                                 2UN 1.99      3,98\n 1474 BANANA PRATA kg                        0,640KG 8.49      5.43\n                                                                 15\n Qtde. Total de Itens                                         181.89\n Valor a Pagar R$                                         VALOR PAGO\n FORMA PAGAMENTO\n                                                              100.00\n Cartao Credito\n                                                               81.09\n Cartao Credito\n                                                              181.89\n Soma Rs\n Val Aprox Tributos R$52,84 (29,05%) Fonte: IBPT\n Vend:\n  DESCONTO CLUBE SN                                           13.00\n Checkout: 009 Op: FLAVIA PINTO MARQUES\n CPF: 09058868605\n  Voce recebeu: 9 selos.\n  ** PAGUE EM ATE 3X SEM JUROS COM CARTAO NOSSO PAY **\n  SUPER NOSSO DEL REY\n            00.070.509/0027-40\n                   VISA\n                  CIELO\n               VISA CREDITO\n             449325 ****** 8917\n  1a VIA-CLIENTE           AUT 423172\n  DOC = 231482 23/06/24 18:42 ONL-L\n  VENDA A CREDITO\n  VALOR",
+      "ocr_confidence": 95.45,
+      "width": 1685,
+      "height": 3465,
+      "avg_char_width": 25.2123,
+      "avg_line_height": 47.9011,
+      "conf_amount": 83,
+      "source_locations": {
+        "date": [
+          [
+            {
+              "x": 102,
+              "y": 849
+            },
+            {
+              "x": 568,
+              "y": 845
+            },
+            {
+              "x": 568,
+              "y": 904
+            },
+            {
+              "x": 102,
+              "y": 908
+            }
+          ]
+        ],
+        "total": [
+          [
+            {
+              "x": 1627,
+              "y": 2485
+            },
+            {
+              "x": 1787,
+              "y": 2480
+            },
+            {
+              "x": 1789,
+              "y": 2536
+            },
+            {
+              "x": 1629,
+              "y": 2541
+            }
+          ]
+        ],
+        "receipt_no": [
+          [
+            {
+              "x": 1083,
+              "y": 849
+            },
+            {
+              "x": 1213,
+              "y": 849
+            },
+            {
+              "x": 1213,
+              "y": 904
+            },
+            {
+              "x": 1083,
+              "y": 904
+            }
+          ]
+        ],
+        "credit_card_number": [
+          [
+            {
+              "x": 464,
+              "y": 3691
+            },
+            {
+              "x": 792,
+              "y": 3698
+            },
+            {
+              "x": 791,
+              "y": 3750
+            },
+            {
+              "x": 463,
+              "y": 3743
+            }
+          ]
+        ],
+        "merchant_name": [
+          [
+            {
+              "x": 427,
+              "y": 536
+            },
+            {
+              "x": 1356,
+              "y": 539
+            },
+            {
+              "x": 1356,
+              "y": 587
+            },
+            {
+              "x": 427,
+              "y": 583
+            }
+          ]
+        ],
+        "doc": [
+          [
+            {
+              "x": 4,
+              "y": 361
+            },
+            {
+              "x": 1858,
+              "y": 347
+            },
+            {
+              "x": 1888,
+              "y": 4159
+            },
+            {
+              "x": 34,
+              "y": 4174
+            }
+          ]
+        ],
+        "merchant_address": [
+          [
+            {
+              "x": 72,
+              "y": 636
+            },
+            {
+              "x": 1721,
+              "y": 647
+            },
+            {
+              "x": 1721,
+              "y": 698
+            },
+            {
+              "x": 72,
+              "y": 687
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "ocr_type": "receipts",
+  "request_id": "P_201.17.157.193_m0v3w2c1_q5w",
+  "ref_no": "ocr_python_123",
+  "file_name": "file",
+  "request_received_on": 1725892596434,
+  "success": true,
+  "image_width": 1800,
+  "image_height": 4000,
+  "image_rotation": -0.007,
+  "recognition_completed_on": 1725892598801,
+  "receipts": [
+    {
+      "merchant_name": "EMITIDA EM CONTINGENCIA Pendente de Autorização",
+      "merchant_address": "#Código Descrição Gtde Un | Valor unit. Valor total",
+      "merchant_phone": "+1 957-855-0001",
+      "merchant_website": null,
+      "merchant_tax_reg_no": null,
+      "merchant_company_reg_no": null,
+      "region": null,
+      "mall": null,
+      "country": "US",
+      "receipt_no": "3124 0501 9578 5500",
+      "date": "2024-06-26",
+      "time": "19:23",
+      "items": [
+        {
+          "amount": 32.9,
+          "category": null,
+          "description": "800ML",
+          "flags": "",
+          "qty": 1,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 32.9
+        },
+        {
+          "amount": 7.98,
+          "category": null,
+          "description": "MALTE 600ML",
+          "flags": "",
+          "qty": 1,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 7.98
+        },
+        {
+          "amount": 7.98,
+          "category": null,
+          "description": "MALTE 600ML",
+          "flags": "",
+          "qty": 1,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 7.98
+        },
+        {
+          "amount": 16.98,
+          "category": null,
+          "description": "004 7898506323708 COXINHA ASA NAT PCT 1KG",
+          "flags": "",
+          "qty": 1,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 16.98
+        },
+        {
+          "amount": 27.9,
+          "category": null,
+          "description": "005 7398506323746 MEIO ASA FRANGO NAT PCT IKG",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 27.9
+        },
+        {
+          "amount": 3.98,
+          "category": null,
+          "description": "10%G TP 200G",
+          "flags": "",
+          "qty": 1,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 3.98
+        },
+        {
+          "amount": 5.98,
+          "category": null,
+          "description": "007 7896417201047 FAR TRIGO VILMA ESPECIAL IK",
+          "flags": "",
+          "qty": 1,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 5.98
+        },
+        {
+          "amount": 5.98,
+          "category": null,
+          "description": "X.98",
+          "flags": "",
+          "qty": null,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": null
+        },
+        {
+          "amount": 13.93,
+          "category": null,
+          "description": "009 4041 QUEDO ALL FRAL D FORMOSA KG",
+          "flags": "",
+          "qty": 168,
+          "remarks": null,
+          "tags": null,
+          "unitPrice": 82.9
+        }
+      ],
+      "currency": "USD",
+      "total": 123.61,
+      "subtotal": null,
+      "tax": null,
+      "service_charge": null,
+      "tip": null,
+      "payment_method": null,
+      "payment_details": null,
+      "credit_card_type": null,
+      "credit_card_number": null,
+      "ocr_text": "   BEM VIVER SUPERMERCADO E PADARIA\n  CNPJ: 01.957.855/0001-78 BEM VIVER SUPERMERCADO E\n                   PADARIA LTDA\n  RUA GAVEA, 88 JD. AMERICA-BELO HORIZONTE-MG\n    304.21-340 Fone:(31) 3374-3150 1.E.: 062.715.799/0082\n    DOCUMENTO AUXILIAR DA NOTA FISCAL DE CONSUMIDOR ELETRONICA\n             EMITIDA EM CONTINGENCIA\n               Pendente de Autorização\n     #Código Descrição Gtde Un | Valor unit. Valor total\n  001 7891150061040 SORVETE KIBON OVOMALTINE\n  800ML\n  1 UN X 32,90                             32,90\n  002 7898659620044 CERV ALBANOS PILSEN PURO\n  MALTE 600ML\n  1 UN X 7,98                               7,98\n  003 7898659620044 CERV ALBANOS PILSEN PURO\n MALTE 600ML\n 1 UN X 7,98                                7,98\n 004 7898506323708 COXINHA ASA NAT PCT 1KG\n 1 UN X 16,98                              16,98\n 005 7398506323746 MEIO ASA FRANGO NAT PCT IKG\n   UN X 27,90                              27,90\n 006 7896051167457 CR LEITE ITAMBE LEVISSIMO\n 10%G TP 200G\n 1 UN X 3,98                                 3,98\n 007 7896417201047 FAR TRIGO VILMA ESPECIAL IK\n 1 UN X 5,98                                 5,98\n 008 7896007540617 ABS INTIMUS SUAVE C ABAS\n      X.98                                   5.98\n 009 4041 QUEDO ALL FRAL D FORMOSA KG\n 0,168 KG X 82,9                            13,93\n QTD. TOTAL DE ITENS                           009\n VALOR TOTAL R                              123,61\n FORMA DE PAGAMENTO                      Valor Pago\n Cartão de Débito VR                        123,61\n          Consulte pela Chave de Acesso em\n  http:// nice fazenda mig.gov.br/portalnice\n 3124 0501 9578 5500 0178 6500 1000 2206 5592 9813 6951\n                               CONSUMIDOR CPF.\n                                 090.688 696-05\n                              GUILHERME DELGADO\n                                CAME 203\n                                    SUISSA BEL\n                                  MORIZONTE\n                               NF 000230656\n                                   Série 001\n                               26/06/2024 19:23:34\n                                 Vla Consumidor\n                           EMITIDA EM CONTINGENCIA\n                           Pendente de Autorização\n Trib aprox R$9,45 Federal R$6.47 Estadual\n Fonte: 18PT/FECOMERCIO (UF) W7m9E1\n Nome: GUILHERME DELGADO\n Tipo de Cliente: CLUBE DE DESCONTOS\n Oper: 400-JESSICA NO          Profit-PDVOne 2.0.14.8\n                         Federal, 12741/12",
+      "ocr_confidence": 93.6,
+      "width": 1526,
+      "height": 3500,
+      "avg_char_width": 30.5961,
+      "avg_line_height": 43.9381,
+      "conf_amount": 83,
+      "source_locations": {
+        "date": [
+          [
+            {
+              "x": 999,
+              "y": 3425
+            },
+            {
+              "x": 1483,
+              "y": 3422
+            },
+            {
+              "x": 1484,
+              "y": 3474
+            },
+            {
+              "x": 1000,
+              "y": 3477
+            }
+          ]
+        ],
+        "total": [
+          [
+            {
+              "x": 1396,
+              "y": 2389
+            },
+            {
+              "x": 1573,
+              "y": 2389
+            },
+            {
+              "x": 1573,
+              "y": 2440
+            },
+            {
+              "x": 1396,
+              "y": 2440
+            }
+          ]
+        ],
+        "receipt_no": [
+          [
+            {
+              "x": 27,
+              "y": 2806
+            },
+            {
+              "x": 623,
+              "y": 2802
+            },
+            {
+              "x": 623,
+              "y": 2857
+            },
+            {
+              "x": 28,
+              "y": 2861
+            }
+          ]
+        ],
+        "merchant_name": [
+          [
+            {
+              "x": 465,
+              "y": 985
+            },
+            {
+              "x": 1137,
+              "y": 976
+            },
+            {
+              "x": 1138,
+              "y": 1025
+            },
+            {
+              "x": 466,
+              "y": 1034
+            }
+          ]
+        ],
+        "doc": [
+          [
+            {
+              "x": -37,
+              "y": 334
+            },
+            {
+              "x": 1641,
+              "y": 323
+            },
+            {
+              "x": 1668,
+              "y": 4173
+            },
+            {
+              "x": -11,
+              "y": 4185
+            }
+          ]
+        ],
+        "merchant_address": [
+          [
+            {
+              "x": 149,
+              "y": 1080
+            },
+            {
+              "x": 1491,
+              "y": 1056
+            },
+            {
+              "x": 1492,
+              "y": 1109
+            },
+            {
+              "x": 150,
+              "y": 1132
+            }
+          ]
+        ],
+        "merchant_phone": [
+          [
+            {
+              "x": 19,
+              "y": 617
+            },
+            {
+              "x": 1580,
+              "y": 579
+            },
+            {
+              "x": 1581,
+              "y": 630
+            },
+            {
+              "x": 20,
+              "y": 669
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}
