@@ -9,6 +9,9 @@ import numpy as np
 
 create_sidebar()
 
+# Define the folder path
+folder_path = "data/receipts_img/"
+
 def get_ocr_read(imageFile, image_filename_original):
     print(f"[OCR] Sending this image: {imageFile} to OCR")
     receiptOcrEndpoint = 'https://ocr.asprise.com/api/v1/receipt' # Receipt OCR API endpoint
@@ -46,6 +49,10 @@ with st.container(border=True):
         # Show the image filename and image.
         st.write(f'Recibo: {uploaded_file.name}')
 
+        # Save the uploaded file to the specified folder
+        with open(os.path.join(folder_path, uploaded_file.name), "wb") as f:
+            f.write(bytes_data)
+            
         receipt_json, bool_success = get_ocr_read(imageFile=bytes_data, image_filename_original=uploaded_file.name)
 
         if bool_success:
